@@ -5563,6 +5563,9 @@ html #wpadminbar {
   font-size: 90%;
   font-style: italic
 }
+.site-info {
+  color: rgb(177, 17, 205);
+}
 
 .footer-logo+.footer-copyright {
   margin-top: 3em
